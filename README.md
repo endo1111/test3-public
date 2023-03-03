@@ -1,2 +1,2 @@
-# test3-public
-test
+readmeです。
+このリポジトリはテスト用公開です。
